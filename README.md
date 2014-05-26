@@ -76,6 +76,23 @@ Content
   We walk-through the changes and additions that we have to make to our project
   in order to release as a free software project under GNU Affero GPL license.
 
+Copyright & License
+-------------------
+
+Author(s) of each reading material and source code will hold copyright on them.
+
+All __reading materials__ will be available under "__Creative Commons
+Attribution-ShareAlike 4.0 International License__".
+
+All __source code__ will be release under "__GNU Affero GPL v3 or later__"
+license.
+
+
+_Copyright 2014 [Sudaraka Wijesinghe] [sudaraka_contact]._
+
+_This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0
+International License] [cc_link]_
+
 
   [hanthana_homepage]: http://hanthana.org/
   [sudaraka_contact]: http://sudaraka.org/contact
@@ -86,3 +103,4 @@ Content
   [jquery_homepage]: https://jquery.com/
   [bootstrap_homepage]: http://getbootstrap.com/
   [heroku_homepage]: https://www.heroku.com/
+  [cc_link]: http://creativecommons.org/licenses/by-sa/4.0/
