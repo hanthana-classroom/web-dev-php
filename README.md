@@ -13,18 +13,24 @@ __Location:__ Remote (via Google+ Hangout)
 __Language:__ Live session will be conducted in Sinhala/English mixed
 language and most of the reading material will be in English.
 
+__Schedule:__ Class schedule will inform one week in advance by respective contributor(s).
+
 __Organized By:__ [Hanthana Linux Project] [hanthana_homepage]
 
 __Conducted By:__ [Sudaraka Wijesinghe] [sudaraka_contact] and [Danishka Navin]
 [danishka_contact]
 
+
 Requirements
 ------------
 
   * Internet connection (with enough bandwidth for a Hangout) _[required]_
-  * GNU/Linux installation (LAMP stack) _[required]_
+  * GNU/Linux installation  _[required]_
+  * PHP,MySQL and Apache setup (LAMP stack) _[required]_
   * Basic knowledge in following topics: _[optional]_
     * PHP, SQL, HTML, CSS, JavaScript
+    * Knowledge on Database Magament Systems
+    * Basic GNU/Linux commands
     * Git, SSH
     * Heroku
 
