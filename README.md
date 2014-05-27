@@ -29,7 +29,7 @@ Requirements
   * PHP,MySQL and Apache setup (LAMP stack) _[required]_
   * Basic knowledge in following topics: _[optional]_
     * PHP, SQL, HTML, CSS, JavaScript
-    * Knowledge on Database Magament Systems
+    * Database Magament Systems
     * Basic GNU/Linux commands
     * Git, SSH
     * Heroku
