@@ -53,7 +53,7 @@ Content
 
   3.2. Unit testing with [PHPUnit] [phpunit_homepage]
 
-    * Using [Composer] [composer_homepage] to manage dependencies.
+    * Using [Composer] [composer_homepage] to manage dependencies
 
   3.3. Create basic CRUD for the modal
 
@@ -61,9 +61,11 @@ Content
 
   3.4. User authentication using OpenID ([LightOpenID] [lightopenid_repo])
 
-  3.5. Make things look nice with [Bootstrap] [bootstrap_homepage]
+  3.5. Organize HTML templates with [Smarty] [smarty_homepage]
 
-  3.6. Create voting system with AJAX
+  3.6. Make things look nice with [Bootstrap] [bootstrap_homepage]
+
+  3.7. Create voting system with AJAX
 
 4. __Deploying the application__
 
@@ -104,3 +106,4 @@ International License] [cc_link]_
   [bootstrap_homepage]: http://getbootstrap.com/
   [heroku_homepage]: https://www.heroku.com/
   [cc_link]: http://creativecommons.org/licenses/by-sa/4.0/
+  [smarty_homepage]: http://www.smarty.net/
