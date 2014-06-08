@@ -77,3 +77,27 @@
       Note: It would be useful to make Apache load multiple configuration files
       from a directory with your home directory when working on several projects
       at the same time.
+
+# DATA MODEL
+
+
+* Link
+  - id (primary key)
+  - url
+  - title
+  - description
+  - added_datetime
+  - added_by (foreign key)
+
+
+* Vote
+  - id (primary key)
+  - link (foreign key)
+  - weight
+  - added_datetime
+  - voter (foreign key)
+
+
+* User
+  - id (primary key)
+  - name
