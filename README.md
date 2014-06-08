@@ -57,11 +57,15 @@ Content
 
   3.1. Create data model
 
+    * Data entity classes
+
+    * Data manager classes
+
   3.2. Unit testing with [PHPUnit] [phpunit_homepage]
 
     * Using [Composer] [composer_homepage] to manage dependencies
 
-  3.3. Create basic CRUD for the modal
+  3.3. Create basic CRUD for the model
 
     * Validating user input using [jQuery] [jquery_homepage]
 
