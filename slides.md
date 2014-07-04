@@ -104,6 +104,16 @@
   - added_datetime
   - added_by (foreign key)
 
+    >     CREATE TABLE `links` (
+    >     `id` int(11) NOT NULL AUTO_INCREMENT,
+    >     `url` varchar(150) NOT NULL DEFAULT '',
+    >     `title` varchar(100) NOT NULL DEFAULT '',
+    >     `description` text,
+    >     `added_datetime` datetime NOT NULL,
+    >     `added_by` int(11) NOT NULL,
+    >     PRIMARY KEY (`id`),
+    >     UNIQUE KEY `unique_url` (`url`)
+    >     );
 
 * Vote
   - id (primary key)
