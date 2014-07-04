@@ -26,7 +26,7 @@ Requirements
 
   * Internet connection (with enough bandwidth for a Hangout) _[required]_
   * GNU/Linux installation  _[required]_
-  * PHP,MySQL and Apache setup (LAMP stack) _[required]_
+  * PHP (5.3.2 or later),MySQL and Apache setup (LAMP stack) _[required]_
   * Basic knowledge in following topics: _[optional]_
     * PHP, SQL, HTML, CSS, JavaScript
     * Database Magament Systems
