@@ -61,7 +61,7 @@ Content
 
     * Data manager classes
 
-  3.2. Unit testing with [PHPUnit] [phpunit_homepage]
+  3.2. Unit testing with [SimpleTest] [simpletest_homepage]
 
     * Using [Composer] [composer_homepage] to manage dependencies
 
@@ -110,7 +110,7 @@ International License] [cc_link]_
   [sudaraka_contact]: http://sudaraka.org/contact
   [danishka_contact]: http://danishkanavin.blogspot.com/
   [lightopenid_repo]: https://gitorious.org/lightopenid
-  [phpunit_homepage]: http://phpunit.de/
+  [simpletest_homepage]: http://simpletest.org/
   [composer_homepage]: https://getcomposer.org/
   [jquery_homepage]: https://jquery.com/
   [bootstrap_homepage]: http://getbootstrap.com/
