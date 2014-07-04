@@ -126,3 +126,39 @@
 * User
   - id (primary key)
   - name
+
+# INSTALLING COMPOSER
+
+> _Composer is a tool for dependency management in PHP. It allows you to declare
+> the dependent libraries your project needs and it will install them in your
+> project for you.Composer is a tool for dependency management in PHP. It allows
+> you to declare the dependent libraries your project needs and it will install
+> them in your project for you._
+>
+> -- https://getcomposer.org/doc/00-intro.md#introduction
+
+## Installing
+
+Make sure _openssl_ and _phar_ modules are enabled in the php.ini
+
+While in the project source page:
+
+    mkdir -p ../bin
+    curl -sS https://getcomposer.org/installer | php -- --install-dir=../bin
+    mv ../bin/composer.phar ../bin/composer
+
+## Configuration
+
+Create ../etc/composor.json as follows:
+
+> {
+>     "config": {
+>         "vendor-dir": "../lib/",
+>         "bin-dir": "../bin/",
+>         "cache-dir": "../var/cache/"
+>     }
+> }
+
+Then run:
+
+> ../bin/composer install -d ../etc
