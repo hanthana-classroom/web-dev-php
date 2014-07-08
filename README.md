@@ -24,15 +24,15 @@ __Conducted By:__ [Sudaraka Wijesinghe] [sudaraka_contact] and [Danishka Navin]
 Requirements
 ------------
 
-  * Internet connection (with enough bandwidth for a Hangout) _[required]_
-  * GNU/Linux installation  _[required]_
-  * PHP (5.3.2 or later),MySQL and Apache setup (LAMP stack) _[required]_
-  * Basic knowledge in following topics: _[optional]_
-    * PHP, SQL, HTML, CSS, JavaScript
-    * Database Magament Systems
-    * Basic GNU/Linux commands
-    * Git, SSH
-    * Heroku
+  - Internet connection (with enough bandwidth for a Hangout) _[required]_
+  - GNU/Linux installation  _[required]_
+  - PHP (5.3.2 or later),MySQL and Apache setup (LAMP stack) _[required]_
+  - Basic knowledge in following topics: _[optional]_
+    - PHP, SQL, HTML, CSS, JavaScript
+    - Database Magament Systems
+    - Basic GNU/Linux commands
+    - Git, SSH
+    - Heroku
 
 Content
 -------
@@ -57,17 +57,17 @@ Content
 
   3.1. Create data model
 
-    * Data entity classes
-
-    * Data manager classes
+    - Data entity classes
+    - Data manager classes
 
   3.2. Unit testing with [SimpleTest] [simpletest_homepage]
 
-    * Using [Composer] [composer_homepage] to manage dependencies
+    - Using [Composer] [composer_homepage] to manage dependencies
+    - Mock database connection
 
   3.3. Create basic CRUD for the model
 
-    * Validating user input using [jQuery] [jquery_homepage]
+    - Validating user input using [jQuery] [jquery_homepage]
 
   3.4. User authentication using OpenID ([LightOpenID] [lightopenid_repo])
 
